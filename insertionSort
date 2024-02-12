@@ -27,7 +27,7 @@ Step12: [2,6,16,18,22,27]   // 6 ile 16  yer değiştirdi
 Big-O gösterimi 
 O(n^2)
 
-worst case
+average case
 
 Soru 2->
 [7,3,5,8,2,9,4,15,6]  dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
